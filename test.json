@@ -1,0 +1,18 @@
+{
+  "success_status": "0",
+  "platform_flow_no": "323423ru3498rreiur",
+  "sys_id": "345erer",
+  "trade_no": "44",
+  "order_id": "MOP-O-20102200403836",
+  "buyer_email": "55",
+  "buyer_id": "3",
+  "extra_common_param": "3",
+  "total_fee": "100",
+  "bank_seq_no": "2",
+  "transaction_time": "2020-10-16 22:43:56",
+  "returncode": "000000",
+  "message": "3",
+  "signtype": "MD5",
+  "servercert": "2",
+  "hmac": "876543"
+}
